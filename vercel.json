@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd policy-landing && npm run build",
+  "outputDirectory": "policy-landing/.next",
+  "installCommand": "cd policy-landing && npm install",
+  "devCommand": "cd policy-landing && npm run dev",
+  "framework": "nextjs"
+}
